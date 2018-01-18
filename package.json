@@ -1,0 +1,29 @@
+{
+  "name": "node-playground",
+  "version": "1.0.0",
+  "description": "Just a random playground for all my various Node.js ideas",
+  "main": "index.js",
+  "repository": "https://github.com/Rayzr522/NodePlayground",
+  "author": "Rayzr522",
+  "license": "MIT",
+  "scripts": {
+    "lint": "xo",
+    "start": "yarn lint && node ."
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "donaldtrump": "^1.0.0",
+    "got": "^6.7.1",
+    "jimp": "^0.2.27",
+    "prettyjson": "^1.2.1",
+    "virtual-canvas": "^1.1.2",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": 4,
+    "semicolon": false,
+    "rules": {
+      "eol-last": 0
+    }
+  }
+}
