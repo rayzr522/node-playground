@@ -13,7 +13,7 @@
   "dependencies": {
     "babel": "^6.23.0",
     "donaldtrump": "^1.0.0",
-    "got": "^6.7.1",
+    "got": "^11.8.5",
     "jimp": "^0.2.27",
     "prettyjson": "^1.2.1",
     "virtual-canvas": "^1.1.2",
